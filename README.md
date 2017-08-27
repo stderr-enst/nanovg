@@ -1,3 +1,11 @@
+Fork of https://github.com/memononen/nanovg
+My main intentions is to fix a few things for potential usage in other projects.
+This includes at the moment:
+	* CMake instead of Premake (currently Linux only)
+	* Some reordering of source files
+
+Original README below:
+
 NanoVG
 ==========
 
